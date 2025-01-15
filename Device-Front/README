@@ -1,0 +1,4 @@
+Para rodar o projeto "yarn start".
+adicionar biblioteca "yarn add" e nome da biblioteca.
+npx expo run:android
+adiciona a biblioteca automaticamente compativel para o expo: npx expo install "nome da biblioteca" 

@@ -1,0 +1,5 @@
+Device-Back/.env
+Device-Back/node_modules
+Device-Back/firebaseServiceAccountKey.json
+Device-Front/node_modules
+.vscode
